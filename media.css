@@ -1,0 +1,6 @@
+/* оптимизация под телефоны ипланшеты */
+
+@media (max-width: 650px) {
+    #dg {flex-direction: column; align-items: center;}
+  }
+
